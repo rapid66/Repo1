@@ -1,1 +1,2 @@
 Hi this is added by host 2
+This line is added by host1
